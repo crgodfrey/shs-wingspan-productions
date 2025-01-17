@@ -4,6 +4,12 @@
 * Director: Cameron
 * Graphics Operator: Paul Tokhtuev
 * Teleprompter Operator: Andrew
+* Camera Operator: Heaven
+* Audio Engineer Finn: Lanvers
+* Lighting Technician: Adrien
+* Scriptwriter/Editor: James
+* Production Assistant: James
+
 
  [Shot List](https://docs.google.com/document/d/1pegpIKzMXc1J_JglkLuPfev92ByFCCENvOx8K6Ihdl4/edit?tab=t.0)
 
