@@ -17,4 +17,4 @@
 
 ![StoryBoard](https://github.com/user-attachments/assets/7a670151-cbeb-41f2-a0b7-78479c29b38c)
 
-![Screenshot 2025-01-17 at 10 35 42 AM](https://github.com/user-attachments/assets/7eb1ec99-004d-4c50-a516-35e0cfd59965)
+![Director allowed time slots](https://github.com/user-attachments/assets/7eb1ec99-004d-4c50-a516-35e0cfd59965)
