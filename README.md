@@ -5,10 +5,10 @@
 * Graphics Operator: Paul 
 * Teleprompter Operator: Andrew
 * Camera Operator: Heaven
-* Audio Engineer Finn: Lanvers
+* Audio Engineer: Finn
 * Lighting Technician: Adrien
 * Scriptwriter/Editor: James
-* Production Assistant: James
+* Live Production Assistant: James
 
 
 
