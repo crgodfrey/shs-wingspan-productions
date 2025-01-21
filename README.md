@@ -12,7 +12,7 @@
 
 
 
-## Pre production
+## Pre Production
 [Shot List](https://docs.google.com/document/d/1pegpIKzMXc1J_JglkLuPfev92ByFCCENvOx8K6Ihdl4/edit?tab=t.0)
 
 ![StoryBoard](https://github.com/user-attachments/assets/7a670151-cbeb-41f2-a0b7-78479c29b38c)
