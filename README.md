@@ -2,7 +2,7 @@
 
 ## Team Members
 * Director: Cameron
-* Graphics Operator: Paul Tokhtuev
+* Graphics Operator: Paul 
 * Teleprompter Operator: Andrew
 * Camera Operator: Heaven
 * Audio Engineer Finn: Lanvers
