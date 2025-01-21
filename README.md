@@ -1,4 +1,4 @@
-# Video Production Team #1
+# Wingspan productions
 
 ## Team Members
 * Director: Cameron
