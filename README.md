@@ -3,12 +3,11 @@
 ## Team Members
 * Director: [Cameron](https://github.com/crgodfrey/web)
 * Graphics Operator: [Paul](https://github.com/Masterpaul562/PaulTokhtuev-Portfolio)
-* Teleprompter Operator: Andrew
-* Camera Operator: Heaven
-* Audio Engineer: Finn
-* Lighting Technician: Adrien
-* Scriptwriter/Editor: James
-* Live Production Assistant: James
+* Teleprompter Operator: [Andrew](https://github.com/Drewloope/vidproportfolio2025)
+* Camera Operator: [Heaven](https://github.com/HeavenMHamilton/vidproportfolio2025)
+* Audio Engineer: [Finn](https://github.com/cats155/VIDPRO2035)
+* Lighting Technician: [Adrien](https://github.com/LocalTechie/vidprod)
+* Scriptwriter/Editor, Live Production Assistant: [James](https://github.com/jameolse/VideoPortfolio2025)
 
 
 
