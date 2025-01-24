@@ -19,4 +19,8 @@
 ![Director allowed time slots](https://github.com/crgodfrey/video-production-aceteam/blob/main/assets/Production%20Table.png?raw=true)
 
 ## Intro Demos
-<video controls> <source src="https://drive.google.com/uc?export=download&id=15urK8ZcTzhUZzxCfzZkkp-b028hcXoxp" type="video/mp4"> Your browser does not support the video tag. </video>
+
+Paul's submission
+
+https://github.com/user-attachments/assets/ed0fef3b-99d5-47d3-ba69-d6cace7a731e
+
