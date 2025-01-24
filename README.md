@@ -1,7 +1,7 @@
 # Wingspan productions
 
 ## Team Members
-* Director: Cameron
+* Director: [Cameron](https://github.com/crgodfrey/web)
 * Graphics Operator: Paul 
 * Teleprompter Operator: Andrew
 * Camera Operator: Heaven
