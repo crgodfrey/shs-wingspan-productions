@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/1cd915c3-6c0c-457b-b5b4-0a048d78ef83
 
 
 **Heaven's Submission:**
- [Heaven's 10 second intro] (https://www.youtube.com/embed/AmWmOzg11ds?si=cw3I20u-Zr8f7aIZ)
+ https://www.youtube.com/embed/AmWmOzg11ds?si=cw3I20u-Zr8f7aIZ
 
 
 
