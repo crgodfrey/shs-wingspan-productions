@@ -11,12 +11,14 @@
 
 
 
-## Pre Production
-[Shot List](https://docs.google.com/document/d/1pegpIKzMXc1J_JglkLuPfev92ByFCCENvOx8K6Ihdl4/edit?tab=t.0)
 
-![StoryBoard](https://github.com/user-attachments/assets/7a670151-cbeb-41f2-a0b7-78479c29b38c)
+<details>
+  <summary>Pre Production Planning</summary>
+  <p><a href="https://docs.google.com/document/d/1pegpIKzMXc1J_JglkLuPfev92ByFCCENvOx8K6Ihdl4/edit?tab=t.0">Shot List</a></p>
+  <p><img src="https://github.com/user-attachments/assets/7a670151-cbeb-41f2-a0b7-78479c29b38c" alt="StoryBoard"></p>
+  <p><img src="https://github.com/crgodfrey/video-production-aceteam/blob/main/assets/Production%20Table.png?raw=true" alt="Director allowed time slots"></p>
+</details>
 
-![Director allowed time slots](https://github.com/crgodfrey/video-production-aceteam/blob/main/assets/Production%20Table.png?raw=true)
 
 ## Intro Demos
 
