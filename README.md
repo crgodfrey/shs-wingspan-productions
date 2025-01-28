@@ -51,7 +51,7 @@ See uncompressed on [Google Drive](https://drive.google.com/file/d/1j8OAvwB3ShxI
 
 
 Heaven's Submission:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AmWmOzg11ds?si=cw3I20u-Zr8f7aIZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ src="https://www.youtube.com/embed/AmWmOzg11ds?si=cw3I20u-Zr8f7aIZ" title="YouTube video player" 
 
 https://github.com/user-attachments/assets/8da15cec-4a7d-4008-865d-1c4131669756
 
