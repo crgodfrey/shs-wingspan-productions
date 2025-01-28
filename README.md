@@ -20,22 +20,22 @@
 
 ## Intro Demos
 
-Paul's submission
+**Paul's submission**
 
 https://github.com/user-attachments/assets/ed0fef3b-99d5-47d3-ba69-d6cace7a731e
 
 
-Adrien's submission
+**Adrien's submission**
 
 https://github.com/user-attachments/assets/d4a34f00-862c-4c86-8d46-353a32f63f10
 
 
-James's Submission
+**James's Submission**
 
 
 https://github.com/user-attachments/assets/9d655c8c-e95e-44e8-9587-16aa5fcd899c
 
-Cameron's Submission 
+**Cameron's Submission**
 
 
 https://github.com/user-attachments/assets/a273573d-72d8-4a47-a6a1-2f75b0ea4281
@@ -47,7 +47,7 @@ See uncompressed on [Google Drive](https://drive.usercontent.google.com/download
 
 
 
-Andrew's Submission <br>
+**Andrew's Submission**<br>
 See uncompressed on [Google Drive](https://drive.google.com/file/d/1j8OAvwB3ShxI1TGUTQwiBObZPGMsbg5M/view?usp=sharing)
 
 
@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/1cd915c3-6c0c-457b-b5b4-0a048d78ef83
 
 
 
-Heaven's Submission:
+**Heaven's Submission:**
  "https://www.youtube.com/embed/AmWmOzg11ds?si=cw3I20u-Zr8f7aIZ"
 
 
