@@ -41,8 +41,11 @@ https://github.com/user-attachments/assets/9d655c8c-e95e-44e8-9587-16aa5fcd899c
 
 https://github.com/user-attachments/assets/a273573d-72d8-4a47-a6a1-2f75b0ea4281
 
+[Outro sequence](https://drive.google.com/file/d/13SD46qHNbgFiB24ctTROS6zyF0R7RUaj/preview)
 
-See uncompressed on [Google Drive](https://drive.usercontent.google.com/download?id=1lUhJfnK7NndQairgvQq9Q8ITgdj7oHJm&export=download&authuser=0)
+
+
+See uncompressed intro on [Google Drive](https://drive.usercontent.google.com/download?id=1lUhJfnK7NndQairgvQq9Q8ITgdj7oHJm&export=download&authuser=0)
 
 
 
