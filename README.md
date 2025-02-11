@@ -9,6 +9,9 @@
 * Lighting Technician: [Adrien](https://github.com/LocalTechie/vidprod)
 * Scriptwriter/Editor, Live Production Assistant: [James](https://github.com/jameolse/VideoPortfolio2025)
 
+
+---
+
 <details>
   <summary>Pre Production Planning</summary>
   <p><a href="https://docs.google.com/document/d/1pegpIKzMXc1J_JglkLuPfev92ByFCCENvOx8K6Ihdl4/edit?tab=t.0">Shot List</a></p>
@@ -19,30 +22,41 @@
 <details>
   <summary>Intro Sequence</summary>
 
-  **Paul's submission**  
-  [Link](https://github.com/user-attachments/assets/ed0fef3b-99d5-47d3-ba69-d6cace7a731e)
-
   **Adrien's submission**  
-  [Link](https://drive.google.com/file/d/1eJ-26P2Q2NKbL7ZFqIDrTPzhvUcQZu0E/view?usp=sharing)
 
-  **James's Submission**  
-  [Link](https://github.com/user-attachments/assets/9d655c8c-e95e-44e8-9587-16aa5fcd899c)
-
-  **Cameron's Submission**  
-  [Link](https://github.com/user-attachments/assets/a273573d-72d8-4a47-a6a1-2f75b0ea4281)
-
-  **See uncompressed intro on [Google Drive](https://drive.usercontent.google.com/download?id=1lUhJfnK7NndQairgvQq9Q8ITgdj7oHJm&export=download&authuser=0)**
+  [Watch](https://drive.google.com/file/d/1eJ-26P2Q2NKbL7ZFqIDrTPzhvUcQZu0E/view?usp=sharing)
 
   **Andrew's Submission**  
-  [See uncompressed](https://drive.google.com/file/d/1j8OAvwB3ShxI1TGUTQwiBObZPGMsbg5M/view?usp=sharing)  
-  [Link](https://github.com/user-attachments/assets/1cd915c3-6c0c-457b-b5b4-0a048d78ef83)
+  See uncompressed intro on [Google Drive](https://drive.google.com/file/d/1j8OAvwB3ShxI1TGUTQwiBObZPGMsbg5M/view?usp=sharing) 
+ 
+  [Watch](https://github.com/user-attachments/assets/1cd915c3-6c0c-457b-b5b4-0a048d78ef83)
+
+  **Cameron's Submission**  
+  See uncompressed intro on [Google Drive](https://drive.usercontent.google.com/download?id=1lUhJfnK7NndQairgvQq9Q8ITgdj7oHJm&export=download&authuser=0)
+
+
+  [Watch](https://github.com/user-attachments/assets/a273573d-72d8-4a47-a6a1-2f75b0ea4281)
+
+  **James's Submission**  
+
+
+  [Watch](https://github.com/user-attachments/assets/9d655c8c-e95e-44e8-9587-16aa5fcd899c)
+
+  **Paul's submission**  
+
+
+  [Watch](https://github.com/user-attachments/assets/ed0fef3b-99d5-47d3-ba69-d6cace7a731e)
 
   **Heaven's Submission**  
-  [Watch on YouTube](https://www.youtube.com/embed/AmWmOzg11ds?si=cw3I20u-Zr8f7aIZ)
+<a href="https://www.youtube.com/watch?v=AmWmOzg11ds" target="_blank">
+  <img src="https://img.youtube.com/vi/AmWmOzg11ds/0.jpg" 
+  alt="Watch on YouTube" width="1920" height="720p" border="10" />
+</a>
+
 
 </details>
 
-## Outro Sequence
+## Outro Sequences
 
 **Outros by team members:**
 
