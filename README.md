@@ -64,7 +64,7 @@
 **Outros by team members:**
 
 - [Andrew's Outro](https://drive.google.com/file/d/1bAWqDhlLpnY_9CQwZP3EdK6f1FtBO9oD/view?usp=sharing)
-- [Cameron's outro](https://drive.google.com/file/d/13SD46qHNbgFiB24ctTROS6zyF0R7RUaj/preview)
+- [Cameron's Outro](https://drive.google.com/file/d/13SD46qHNbgFiB24ctTROS6zyF0R7RUaj/preview)
 - [Finn's Outro](https://drive.google.com/file/d/1hDS9-K0RcVEqSZoZlNfN0OTDheDePFQS/view?usp=sharing)
 
 - [Paul's Outro](https://drive.google.com/file/d/1FS4eVfCzRmqkWVNlYJe1lpM0wAxW9A1f/view?usp=sharing)
