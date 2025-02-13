@@ -66,5 +66,5 @@
 - [Andrew's Outro](https://drive.google.com/file/d/1bAWqDhlLpnY_9CQwZP3EdK6f1FtBO9oD/view?usp=sharing)
 - [Cameron's Outro](https://drive.google.com/file/d/13SD46qHNbgFiB24ctTROS6zyF0R7RUaj/preview)
 - [Finn's Outro](https://drive.google.com/file/d/1hDS9-K0RcVEqSZoZlNfN0OTDheDePFQS/view?usp=sharing)
-
+- [James's Outro](https://drive.google.com/file/d/1JUbW-WhdJPnivHZarBR1aMW-3W8h13v-/view?usp=sharing)
 - [Paul's Outro](https://drive.google.com/file/d/1FS4eVfCzRmqkWVNlYJe1lpM0wAxW9A1f/view?usp=sharing)
