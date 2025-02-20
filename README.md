@@ -1,6 +1,6 @@
-# Wingspan Productions
+# WINSPAN PRODUCTIONS
 
-## Team Members
+## Members
 * Director: [Cameron](https://github.com/crgodfrey/web)
 * Graphics Operator: [Paul](https://github.com/Masterpaul562/PaulTokhtuev-Portfolio)
 * Teleprompter Operator: [Andrew](https://github.com/Drewloope/vidproportfolio2025)
