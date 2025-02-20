@@ -69,7 +69,7 @@
   [Watch](https://drive.google.com/file/d/1hDS9-K0RcVEqSZoZlNfN0OTDheDePFQS/view?usp=sharing)
 
 **James's Outro**
-[Watch](https://drive.google.com/file/d/1JUbW-WhdJPnivHZarBR1aMW-3W8h13v-/view?usp=sharing)
+[Watch](https://drive.google.com/file/d/1fs6zbgXvEA-RkSikGesGKQg6TW566cUy/view?usp=sharing)
 
 **Paul's Outro**
 [Watch](https://drive.google.com/file/d/1FS4eVfCzRmqkWVNlYJe1lpM0wAxW9A1f/view?usp=sharing)
