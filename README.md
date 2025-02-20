@@ -1,4 +1,4 @@
-# WINSPAN PRODUCTIONS
+# WINGSPAN PRODUCTIONS
 
 ## Members
 * Director: [Cameron](https://github.com/crgodfrey/web)
