@@ -98,7 +98,7 @@
 [Watch](https://drive.google.com/file/d/1pONJlzyBqeEn06-aMXyCJcDJEJxVqOyw/view?usp=sharing)
 
 **Paul's Video**
-[Watch]()
+[Watch](https://drive.google.com/file/d/1uQE4hhBP7PsaYfUbe0ks8hiXNjcjFIl6/view?usp=sharing)
 
 **Adrien's Video**
 [Watch]()
