@@ -86,7 +86,7 @@
   <summary>Stage Crew</summary>
   
 **Andrew's Video**
-  [Watch]()
+  [Watch](https://drive.google.com/file/d/1KX5WntBWiZOk2yR1tNDalb6A53q3juVD/view?usp=drive_link)
 
 **Cameron's Video**
   [Watch]()
