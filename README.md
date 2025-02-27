@@ -82,4 +82,28 @@
 
 </details>
 
+<details>
+  <summary>Stage Crew</summary>
+  
+**Andrew's Video**
+  [Watch]()
 
+**Cameron's Video**
+  [Watch]()
+
+**Finn's Video**
+  [Watch](https://drive.google.com/file/d/1uL72-45wqGei8I_DmzJCl_QlRrzfaQf7/view?usp=sharing)
+
+**James's Video**
+[Watch]()
+
+**Paul's Video**
+[Watch]()
+
+**Adrien's Video**
+[Watch]()
+
+**Heaven's Video**
+[Watch]()
+
+</details>
