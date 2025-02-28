@@ -109,5 +109,7 @@
 **StoryBoard**
 
 ![StoryBoard](https://github.com/user-attachments/assets/d2f7eb69-e6ed-4ee7-a1eb-b6849f96b180)
+**Shot List**
+![ShotList](https://github.com/user-attachments/assets/a44c8658-153d-46f9-91bd-e56e5831456c)
 
 </details>
