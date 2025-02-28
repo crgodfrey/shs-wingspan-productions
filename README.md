@@ -88,9 +88,6 @@
 **Andrew's Video**
   [Watch](https://drive.google.com/file/d/1KX5WntBWiZOk2yR1tNDalb6A53q3juVD/view?usp=drive_link)
 
-**Cameron's Video**
-  [Watch]()
-
 **Finn's Video**
   [Watch](https://drive.google.com/file/d/1uL72-45wqGei8I_DmzJCl_QlRrzfaQf7/view?usp=sharing)
 
