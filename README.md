@@ -83,7 +83,7 @@
 </details>
 
 <details>
-  <summary>Stage Crew</summary>
+  <summary>Stage Crew Segment Proposal</summary>
   
 **Andrew's Video**
   [Watch](https://drive.google.com/file/d/1KX5WntBWiZOk2yR1tNDalb6A53q3juVD/view?usp=drive_link)
@@ -103,13 +103,18 @@
 **Adrien's Video**
 [Watch](https://drive.google.com/file/d/1fCd6MctvoF4l2gDvFvzxkXVMQFUWFu4q/view?usp=sharing)
 
+**Cameron's Video**
+[Watch](https://drive.google.com/file/d/1Fq1Anb8D5YeJ8HqM7lAVchumVuLe_1TB/view?usp=sharing)
+
 **Heaven's Video**
 [Watch]()
 
 **StoryBoard**
 
 ![StoryBoard](https://github.com/user-attachments/assets/d2f7eb69-e6ed-4ee7-a1eb-b6849f96b180)
+
 **Shot List**
+
 ![ShotList](https://github.com/user-attachments/assets/a44c8658-153d-46f9-91bd-e56e5831456c)
 
 </details>
