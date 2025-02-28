@@ -91,8 +91,8 @@
 **Finn's Video**
   [Watch](https://drive.google.com/file/d/1uL72-45wqGei8I_DmzJCl_QlRrzfaQf7/view?usp=sharing)
 
-**James's Video**
-[Watch](https://drive.google.com/file/d/1pONJlzyBqeEn06-aMXyCJcDJEJxVqOyw/view?usp=sharing)
+**James's Video (Now With Music!)**
+[Watch](https://drive.google.com/file/d/1yg87R8v8BLaFMhK-HaKmyUZM6rxA8wdR/view?usp=sharing)
 
 **Paul's Video**
 [Watch](https://drive.google.com/file/d/1uQE4hhBP7PsaYfUbe0ks8hiXNjcjFIl6/view?usp=sharing)
