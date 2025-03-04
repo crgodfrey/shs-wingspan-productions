@@ -131,6 +131,12 @@
    
 ![StoryBoard](https://github.com/crgodfrey/shs-wingspan-productions/blob/main/assets/PromoStoryBoard.png)
 
+![ShotList](https://github.com/user-attachments/assets/7d0da7ab-f7e2-4d4f-b013-836f72c4da59)
+
+![Script](https://github.com/user-attachments/assets/30e86e59-bfbc-4d0d-b57d-c21b0636703f)
+
+
+
 </details>
 
 
