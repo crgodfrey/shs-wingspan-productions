@@ -1,5 +1,6 @@
 <!-- <img src="https://github.com/user-attachments/assets/889f99da-eae0-4211-955a-78d908969ab0" height="300" width="1000"> -->
-![wingspan banner](https://github.com/user-attachments/assets/18b6c0e6-d735-460b-a472-c40487ce0624)
+
+![wingspan banner](https://github.com/user-attachments/assets/da89e213-7680-4562-a97c-73b0550845e5)
 
 
 ## Members
