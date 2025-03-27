@@ -153,4 +153,8 @@
 
 </details>
 
+Cheer showcase
+| Storyboard   | Scriptwriting    | Filmed    | Editing |
+|-------------|-----------------|----------|---------|
+| ❌ | ❌  | ❌  | ❌ |
 
