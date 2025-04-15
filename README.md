@@ -153,8 +153,11 @@
 
 </details>
 
-Cheer showcase 
-| Storyboard   | Scriptwrote    | Filmed    | Edited |
-|-------------|-----------------|----------|---------|
-| ✅ | ✅  | ✅  | ❌ |
+<details>
+  
+<summary>Cheer Video</summary>
+  
+  [Watch](https://drive.google.com/file/d/1iN2IyYY3diKjk1D2RGi9f6bv0AkWgMYI/view?usp=sharing)
+</details>
+
 
