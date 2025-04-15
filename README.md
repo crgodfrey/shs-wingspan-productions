@@ -154,7 +154,7 @@
 </details>
 
 Cheer showcase 
-| Storyboard   | Scriptwriting    | Filmed    | Editing |
+| Storyboard   | Scriptwrote    | Filmed    | Edited |
 |-------------|-----------------|----------|---------|
 | ✅ | ✅  | ✅  | ❌ |
 
