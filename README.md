@@ -26,6 +26,9 @@
 
 ---
 
+* Yearbook stomp:
+[Yearbook stomp](https://drive.google.com/file/d/1LGy78mov5uBpK7UxHu6emrI4s5qnuYX4/view)
+
 <details>
   <summary>Pre Production Planning</summary>
   <p><a href="https://docs.google.com/document/d/1pegpIKzMXc1J_JglkLuPfev92ByFCCENvOx8K6Ihdl4/edit?tab=t.0">Shot List</a></p>
