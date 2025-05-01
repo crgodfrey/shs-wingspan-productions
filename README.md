@@ -26,8 +26,8 @@
 
 ---
 
-* Yearbook stomp:
-[Yearbook stomp](https://drive.google.com/drive/folders/1e4HLsUjFv_7JCiBandH3Jt4y_SjkoMtA?usp=sharing)
+
+
 <details>
   <summary>Pre Production Planning</summary>
   <p><a href="https://docs.google.com/document/d/1pegpIKzMXc1J_JglkLuPfev92ByFCCENvOx8K6Ihdl4/edit?tab=t.0">Shot List</a></p>
@@ -162,4 +162,10 @@
   [Watch](https://drive.google.com/file/d/1iN2IyYY3diKjk1D2RGi9f6bv0AkWgMYI/view?usp=sharing)
 </details>
 
+<details>
+<summary> Yearbook Stomp Video </summary>
+  
+  [Yearbook stomp](https://drive.google.com/drive/folders/1e4HLsUjFv_7JCiBandH3Jt4y_SjkoMtA?usp=sharing)
+  
+</details>
 
