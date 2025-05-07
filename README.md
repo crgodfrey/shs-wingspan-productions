@@ -170,10 +170,10 @@
 </details>
 
 <details>
-<summary> Video Announcment </summary>
+  <summary>Video Announcements</summary>
 
-  
-  [Watch](https://drive.google.com/file/d/1okxVX-HiYhtntbrNIMulZggLdCSdBkr1/view?usp=sharing)
-  
+  - [May 1ᵗʰ](https://drive.google.com/file/d/1okxVX-HiYhtntbrNIMulZggLdCSdBkr1/view?usp=sharing)
+  - [May 8ᵗʰ]()
+  - [____]()
+
 </details>
-
